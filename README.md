@@ -29,4 +29,9 @@ Herzog-Eberhard-Straße 56,
 **Pictures**:
 
 ![Florian Handke - 1](data/IMG_6005.JPG)
+
+https://github.com/FHatCSW/florian_handke/blob/main/data/IMG_6005.JPG
+
 ![Florian Handke - 2](data/IMG_6006.JPG)
+
+https://github.com/FHatCSW/florian_handke/blob/main/data/IMG_6006.JPG
